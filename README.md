@@ -28,3 +28,23 @@ Yakın arkadaşının işlemediği bir suç yüzünden hapse girmesi sonucunda, 
 * Aksiyon ve macera türü oyun severler
 ## Product Backlog URL
 https://trello.com/invite/b/dYobNV8z/3b570948304db1cc20a65ad17f3541d1/oua
+
+# Sprint 1
+* **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+* **Sprint içinde tamamlanması tahmin edilen puan:** 100 Puan
+* **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. İlk sprint için tam 100 puanlık backlog belirledik.
+* **Backlog düzeni ve Story seçimleri:** Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. Story'ler task'lere bölünmüştür. Trello'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+* **Daily Scrum:** Daily Scrum toplantıları Slack üzerinden yapılmıştır. Daily Scrum toplantıları notlarına buradan ulaşılabilir: 
+* **Sprint Board Update:** Sprint board screenshotları:
+
+* **Ürün Durumu:** Ekran görüntüleri:
+
+* **Sprint Review:** 1.Sprint'te oyun konusu ve assetleri belirlenmiştir. Alınan kararlar: Oyunun level tasarımlarının, ekran paylaşımı yoluyla hep birlikte yapılmasına karar verilmiştir. Bunun dışındaki işlemler ise görev paylaşımı yoluyla bireysel olarak yürütülecektir.
+Sprint Review katılımcıları: İbrahim Dathudayev, Gökberk Şenocak, Nisa Akın, Mustafa Kuş.   
+
+* **Sprint Retrospective:** 
+    - Oyunun kodlanmasına ayrılacak zamanın arttırılmasına karar verilmiştir.
+    - Oynanış zevki açısından level tasarımlarının biraz daha zorlaştırılmasına karar verilmiştir.
+    - Oyunun sadeliğini çok bozmadan, karaktere bazı power-up mekanikleri eklenmesi kararı alınmıştır.
+ 
+ # Sprint 2
