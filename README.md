@@ -1,5 +1,5 @@
 # Takım İsmi
-Unity Grup 125 (İsim bulununca değişecek.)
+Cubed Five
 
 # Ürün ile İlgili Bilgiler
 
@@ -15,7 +15,7 @@ Unity Grup 125 (İsim bulununca değişecek.)
 * Almina Kahyaoğlu: Game Developer
 
 ## Ürün İsmi
-(Bulununca güncelleme gelecek.)
+Jail Escape
 ## Ürün Açıklaması
 Yakın arkadaşının işlemediği bir suç yüzünden hapse girmesi sonucunda, karakterimizin hapisten dostunu kurtarmaya çalışacağı 3D Hyper-Casual türü bir oyundur.
 ## Ürün Özellikleri
