@@ -51,3 +51,19 @@ Sprint Review katılımcıları: İbrahim Dathudayev, Gökberk Şenocak, Nisa Ak
     - Oyunun sadeliğini çok bozmadan, karaktere bazı power-up mekanikleri eklenmesi kararı alınmıştır.
  
  # Sprint 2
+* **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
+* **Sprint içinde tamamlanması tahmin edilen puan:** 135 Puan
+* **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. İkinci sprint için tam 135 puanlık backlog belirledik.
+* **Backlog düzeni ve Story seçimleri:** Aynı ilk sprintte olduğu gibi Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. Story'ler task'lere bölünmüştür. Trello'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
+* **Daily Scrum:** Daily Scrum toplantıları Slack üzerinden yapılmıştır. Daily Scrum toplantılarının notlarına buradan ulaşılabilir: [Daily Scrum Notları Sprint2.docx](https://github.com/gokberksenocak/UnityGrup125/files/8748333/Daily.Scrum.Notlari.Sprint2.docx)
+
+* **Sprint Board Update:** Sprint board screenshot: 
+* **Ürün Durumu:** Ekran görüntüleri: 
+
+* **Sprint Review:** 2.Sprint'te oyun levellarının büyük bir kısmı tasarlanmış olup; oyunun müzikleri,efektleri,animasyonları ayarlanmıştır. Alınan kararlar: Bir sonraki sprint için oyunun menü tasarım tarafına ağırlık gösterilmesi gerektiğine karar verilmiştir. Reklam entegresi ve oyun tutorialı da bir sonraki spirintte yürütülecektir.
+Sprint Review katılımcıları: İbrahim Dathudayev, Gökberk Şenocak, Nisa Akın, Mustafa Kuş, Almina Kahyaoğlu.   
+
+* **Sprint Retrospective:** 
+    - Oyunun kodlanmasına gösterilen ilginin, tasarım tarafına gösterilmediği fark edildiği için tasarıma ayrılacak zamanın arttırılmasına karar kılınmıştır.
+    - Optimizasyon durumu düşünülerek level sayısında azalmaya gidilmiştir.
+    - Oyuna reklam sistemi entegre edilmesi kararı alınmıştır.
