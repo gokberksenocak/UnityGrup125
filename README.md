@@ -57,10 +57,11 @@ Sprint Review katılımcıları: İbrahim Dathudayev, Gökberk Şenocak, Nisa Ak
 * **Backlog düzeni ve Story seçimleri:** Aynı ilk sprintte olduğu gibi Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. Story'ler task'lere bölünmüştür. Trello'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 * **Daily Scrum:** Daily Scrum toplantıları Slack üzerinden yapılmıştır. Daily Scrum toplantılarının notlarına buradan ulaşılabilir: [Daily Scrum Notları Sprint2.docx](https://github.com/gokberksenocak/UnityGrup125/files/8748333/Daily.Scrum.Notlari.Sprint2.docx)
 
-* **Sprint Board Update:** Sprint board screenshot: 
-* **Ürün Durumu:** Ekran görüntüleri: 
+* **Sprint Board Update:** Sprint board screenshot: ![Ekran Görüntüsü (492)](https://user-images.githubusercontent.com/102216059/169669134-2ea0adf9-90cc-4be4-8471-c5b83d4e541e.png) ![Ekran Görüntüsü (501)](https://user-images.githubusercontent.com/102216059/169669140-31a21586-f858-4934-928b-391d7badb98b.png) ![Ekran Görüntüsü (503)](https://user-images.githubusercontent.com/102216059/169669147-a40f66e3-e241-400c-bcaa-86106593cd75.png) ![Ekran Görüntüsü (505)](https://user-images.githubusercontent.com/102216059/169669195-b8c36fa1-91c4-47e1-ad92-4af3c335ecc9.png)
 
-* **Sprint Review:** 2.Sprint'te oyun levellarının büyük bir kısmı tasarlanmış olup; oyunun müzikleri,efektleri,animasyonları ayarlanmıştır. Alınan kararlar: Bir sonraki sprint için oyunun menü tasarım tarafına ağırlık gösterilmesi gerektiğine karar verilmiştir. Reklam entegresi ve oyun tutorialı da bir sonraki spirintte yürütülecektir.
+* **Ürün Durumu:** Ekran görüntüleri: ![Ekran Görüntüsü (494)](https://user-images.githubusercontent.com/102216059/169669243-20184274-3716-4f6e-b5b1-f38a1ba09bc2.png) ![Ekran Görüntüsü (496)](https://user-images.githubusercontent.com/102216059/169669253-1d87df8f-8e27-4acf-ab9a-dba2f06c476d.png) ![Ekran Görüntüsü (498)](https://user-images.githubusercontent.com/102216059/169669260-87367538-cdb5-41e9-9065-576d2c3e983e.png) ![Ekran Görüntüsü (500)](https://user-images.githubusercontent.com/102216059/169669268-78c99ae4-2e72-469a-8717-adcd8dada688.png)
+
+* **Sprint Review:** 2.Sprint döneminde oyun levellarının büyük bir kısmı tasarlanmış olup; oyunun müzikleri,efektleri,animasyonları ayarlanmıştır. Alınan kararlar: Bir sonraki sprint için oyunun menü tasarım tarafına ağırlık gösterilmesi gerektiğine karar verilmiştir. Reklam entegresi ve oyun tutorialı da bir sonraki spirintte yürütülecektir.
 Sprint Review katılımcıları: İbrahim Dathudayev, Gökberk Şenocak, Nisa Akın, Mustafa Kuş, Almina Kahyaoğlu.   
 
 * **Sprint Retrospective:** 
