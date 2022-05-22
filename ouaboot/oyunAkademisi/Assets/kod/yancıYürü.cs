@@ -10,7 +10,7 @@ public class yancıYürü : MonoBehaviour
     Vector3 poz2; // metre
     void Start()
     {
-        hiz = Random.Range(0.2f, 2); // random hız değieri
+        hiz = Random.Range(0.5f, 3); // random hız değieri
         cur = 0;
     }
 
