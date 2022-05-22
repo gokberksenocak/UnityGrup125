@@ -27,7 +27,8 @@ Yakın arkadaşının işlemediği bir suç yüzünden hapse girmesi sonucunda, 
 * Hyper-Casual oyun tutkunları
 * Aksiyon ve macera türü oyun severler
 ## Product Backlog URL
-https://trello.com/invite/b/dYobNV8z/3b570948304db1cc20a65ad17f3541d1/oua
+https://trello.com/invite/b/dYobNV8z/3b570948304db1cc20a65ad17f3541d1/oua (Sprint 1 Panosu)
+https://trello.com/invite/b/63xLurSY/90d8aabcb1c610935344506369feafd6/sprint-2 (Sprint 2 Panosu) 
 
 # Sprint 1
 * **Sprint Notları:** User Story'ler product backlog'ların içine yazılmıştır. Product backlog item'lara tıklandığında hikayelerin detayları okunabilir.
@@ -68,3 +69,4 @@ Sprint Review katılımcıları: İbrahim Dathudayev, Gökberk Şenocak, Nisa Ak
     - Oyunun kodlanmasına gösterilen ilginin, tasarım tarafına gösterilmediği fark edildiği için tasarıma ayrılacak zamanın arttırılmasına karar kılınmıştır.
     - Optimizasyon durumu düşünülerek level sayısında azalmaya gidilmiştir.
     - Oyuna reklam sistemi entegre edilmesi kararı alınmıştır.
+ # Sprint 3
