@@ -56,7 +56,7 @@ Sprint Review katılımcıları: İbrahim Dathudayev, Gökberk Şenocak, Nisa Ak
 * **Sprint içinde tamamlanması tahmin edilen puan:** 135 Puan
 * **Puan tamamlama mantığı:** Toplamda proje boyunca tamamlanması gereken 380 puanlık backlog bulunmaktadır. İkinci sprint için tam 135 puanlık backlog belirledik.
 * **Backlog düzeni ve Story seçimleri:** Aynı ilk sprintte olduğu gibi Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. Story'ler task'lere bölünmüştür. Trello'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
-* **Daily Scrum:** Daily Scrum toplantıları Slack üzerinden yapılmıştır. Daily Scrum toplantılarının notlarına buradan ulaşılabilir: [Daily Scrum Notları Sprint2.docx](https://github.com/gokberksenocak/UnityGrup125/files/8748333/Daily.Scrum.Notlari.Sprint2.docx)
+* **Daily Scrum:** Daily Scrum toplantıları Slack üzerinden yapılmıştır. Daily Scrum toplantılarının notlarına buradan ulaşılabilir: [Daily Scrum Notları Sprint2.docx](https://github.com/gokberksenocak/UnityGrup125/files/8757722/Daily.Scrum.Notlari.Sprint2.docx)
 
 * **Sprint Board Update:** Sprint board screenshot: ![Ekran Görüntüsü (492)](https://user-images.githubusercontent.com/102216059/169669134-2ea0adf9-90cc-4be4-8471-c5b83d4e541e.png) ![Ekran Görüntüsü (501)](https://user-images.githubusercontent.com/102216059/169669140-31a21586-f858-4934-928b-391d7badb98b.png) ![Ekran Görüntüsü (503)](https://user-images.githubusercontent.com/102216059/169669147-a40f66e3-e241-400c-bcaa-86106593cd75.png) ![Ekran Görüntüsü (505)](https://user-images.githubusercontent.com/102216059/169669195-b8c36fa1-91c4-47e1-ad92-4af3c335ecc9.png)
 
