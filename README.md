@@ -26,6 +26,11 @@ Yakın arkadaşının işlemediği bir suç yüzünden hapse girmesi sonucunda, 
 * WebGl oyun kullanıcıları
 * Hyper-Casual oyun tutkunları
 * Aksiyon ve macera türü oyun severler
+## Dışarıdan Hazır Olarak Kullanılan Oyun Ögeleri
+* Ana karakter, yan karakter ve gardiyanlar için: https://assetstore.unity.com/packages/3d/characters/easy-primitive-people-161846
+* Bölüm sonu noktaları ve particyle efektler için: https://assetstore.unity.com/packages/vfx/particles/cartoon-fx-free-109565
+* Oyun müziği için: https://zakiro101.itch.io/free-casual-game-music-pack-vol-2
+* Reklam sistemi için: Google AdMob
 ## Product Backlog URL
 https://trello.com/invite/b/dYobNV8z/3b570948304db1cc20a65ad17f3541d1/oua (Sprint 1 Panosu)
 https://trello.com/invite/b/63xLurSY/90d8aabcb1c610935344506369feafd6/sprint-2 (Sprint 2 Panosu) 
@@ -91,7 +96,7 @@ Sprint Review katılımcıları: İbrahim Dathudayev, Gökberk Şenocak, Nisa Ak
 ![Ekran Görüntüsü (583)](https://user-images.githubusercontent.com/102216059/172068014-ca12ee09-68e1-4cbd-8831-24c7073d332f.png)
 ![Ekran Görüntüsü (585)](https://user-images.githubusercontent.com/102216059/172068097-8d4b9984-d60c-4bff-96b7-f09f0f17aeb7.png)
 
-* **Sprint Review:** 3.Sprint döneminde oyunun son 5 level'ı tasarlanmış olup, oyuniçi menü sistemleri ve reklam sistemi oyuna entegre edilmiştir. Build işlemi de gerçekleştirilmiş olup oyunumuzun yapımı tamamlanmıştır. Ayrıca oyunda hangi paketlerin hazır olarak indirilip kullanıldığı ve oyunla ilgili birçok bilgiler veren Game Design Document dosyası oluşturuldu. Bu dosyaya oyunun kodlarının da bulunduğu "side" adlı branchimizden ulaşılabilinir. Sprint Review katılımcıları: İbrahim Dathudayev, Gökberk Şenocak, Nisa Akın, Mustafa Kuş, Almina Kahyaoğlu.   
+* **Sprint Review:** 3.Sprint döneminde oyunun son 5 level'ı tasarlanmış olup, oyuniçi menü sistemleri ve reklam sistemi oyuna entegre edilmiştir. Build işlemi de gerçekleştirilmiş olup oyunumuzun yapımı tamamlanmıştır. Oyunla ilgili bilgiler veren Game Design Document dosyası oluşturuldu. Bu dosyaya oyunun kodlarının da bulunduğu "side" adlı branchimizden ulaşılabilinir. Sprint Review katılımcıları: İbrahim Dathudayev, Gökberk Şenocak, Nisa Akın, Mustafa Kuş, Almina Kahyaoğlu.   
 
 * **Sprint Retrospective:** 
     - Bir daha bootcamp benzeri bir tecrübe edinildiğinde ilk olarak oyunun hangi platforma çıkarılacağına karar verilecektir, bu işlem sonlara bırakılmayacaktır.
